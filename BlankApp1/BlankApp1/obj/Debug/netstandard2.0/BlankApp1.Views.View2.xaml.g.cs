@@ -12,12 +12,12 @@ namespace BlankApp1.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Do\\source\\repos\\_XAMARIN\\IncludeChildLayoutIntoContentPage\\BlankApp1\\Bla" +
-        "nkApp1\\Views\\Bar.xaml")]
-    public partial class Bar : global::Xamarin.Forms.StackLayout {
+        "nkApp1\\Views\\View2.xaml")]
+    public partial class View2 : global::Xamarin.Forms.ContentView {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Bar));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(View2));
         }
     }
 }

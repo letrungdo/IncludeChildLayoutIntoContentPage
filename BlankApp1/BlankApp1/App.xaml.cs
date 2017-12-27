@@ -30,8 +30,6 @@ namespace BlankApp1
         {
             Container.RegisterTypeForNavigation<NavigationPage>();
             Container.RegisterTypeForNavigation<MainPage>();
-            Container.RegisterTypeForNavigation<Page1>();
-            Container.RegisterTypeForNavigation<Page2>();
 
         }
     }

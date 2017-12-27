@@ -1,4 +1,5 @@
-﻿using Prism.Commands;
+﻿using BlankApp1.Views;
+using Prism.Commands;
 using Prism.Mvvm;
 using Prism.Navigation;
 using System;
@@ -34,13 +35,22 @@ namespace BlankApp1.ViewModels
 
         private void showPage1()
         {
-            NavigationService.NavigateAsync("Page1");
+
+            //NavigationService.NavigateAsync("/NavigationPage/Page1");
+
+            //NavigationService.NavigateAsync("/NavigationPage/MainPage/Page1", null, false, true);
+
+           // View1 view1 = new View1();
+            
+
+
+
         }
 
         private void showPage2()
         {
-            
-            NavigationService.NavigateAsync("Page2");
+            //NavigationService.NavigateAsync("/NavigationPage/MainPage/Page2", null, false, false);
+            //NavigationService.NavigateAsync("/NavigationPage/Page2");
         }
 
         public virtual void OnNavigatedFrom(NavigationParameters parameters)

@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace BlankApp1.Views
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class Bar : StackLayout
+	public partial class View2 : ContentView
 	{
-		public Bar ()
+		public View2 ()
 		{
 			InitializeComponent ();
 		}

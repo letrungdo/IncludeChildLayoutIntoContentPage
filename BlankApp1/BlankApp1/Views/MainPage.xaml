@@ -11,27 +11,23 @@
         
         <StackLayout Orientation="Horizontal" VerticalOptions="Start">
             <!-- top controls -->
+
+            
+
+            <Button x:Name="btn1" Text="btn1" Command="{Binding btn1Click}"/>
+            <Button x:Name="btn2"  Text="btn2" Command="{Binding btn2Click}"/>
+            <Button x:Name="btn3"  Text="btn3" Command="{Binding btn3Click}"/>
+
         </StackLayout>
 
-        <StackLayout VerticalOptions="CenterAndExpand">
-            <!--
-            <Label Text="Btn 1 isClick" HorizontalOptions="Center" IsVisible="{Binding IsVisibleLbl1}"/>
-            <Label Text="Btn 2 isClick" HorizontalOptions="Center" IsVisible="{Binding IsVisibleLbl2}"/>
-            
-            -->
+        <StackLayout VerticalOptions="CenterAndExpand" x:Name="EntryFieldsStack" BindingContext="">
+           
 
         </StackLayout>
 
         <StackLayout Orientation="Horizontal" VerticalOptions="End">
-            <!-- bottom controls 
-            <Button Text="btn1" Command="{Binding btn1Click}"/>
-            <Button Text="btn2" Command="{Binding btn2Click}"/>
-            <Button Text="btn3" Command="{Binding btn3Click}"/>
-            -->
-
-            <local:Bar>
-
-            </local:Bar>
+           
+            <Label Text="Đây là bottom"/>
 
         </StackLayout>
     </StackLayout>

@@ -38,11 +38,10 @@ C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\Bl
 C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.csprojResolveAssemblyReference.cache
 C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.csproj.CoreCompileInputs.cache
 C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.App.xaml.g.cs
-C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.Views.Bar.xaml.g.cs
 C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.Views.MainPage.xaml.g.cs
-C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.Views.Page1.xaml.g.cs
-C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.Views.Page2.xaml.g.cs
 C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.AssemblyInfoInputs.cache
 C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.AssemblyInfo.cs
 C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.dll
 C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.pdb
+C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.Views.View1.xaml.g.cs
+C:\Users\Do\source\repos\_XAMARIN\IncludeChildLayoutIntoContentPage\BlankApp1\BlankApp1\obj\Debug\netstandard2.0\BlankApp1.Views.View2.xaml.g.cs
